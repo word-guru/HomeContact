@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.32804.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeContact", "HomeContact\HomeContact.csproj", "{554E6B3F-AACB-4C83-8227-AAAC6E90C8EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{554E6B3F-AACB-4C83-8227-AAAC6E90C8EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{554E6B3F-AACB-4C83-8227-AAAC6E90C8EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{554E6B3F-AACB-4C83-8227-AAAC6E90C8EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{554E6B3F-AACB-4C83-8227-AAAC6E90C8EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F71215FE-6418-4826-83D6-F9CED4BB9125}
+	EndGlobalSection
+EndGlobal

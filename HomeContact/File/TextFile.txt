@@ -1,0 +1,12 @@
+﻿Name: Tom
+Phone: (800)-777-77-77
+Alternative phone: (800)-777-77-78
+Email: tom&co@.ru
+Description: Менеджер банка
+=====================================
+Name: Bob
+Phone: (800)-888-88-88
+Alternative phone: (800)-888-88-89
+Email: bob&co@.ru
+Description: Менеджер банка
+######################################
